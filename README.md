@@ -10,9 +10,7 @@
 * [Technical Requirements](#technical-requirements)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
-* [Acknowledgements](#acknowledgements)
+
 
 **Overview**
 -----------
